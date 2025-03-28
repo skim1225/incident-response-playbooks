@@ -37,7 +37,7 @@ Also, the first step you took as an Incident Response Manager was to create the 
 7. Human Resources Representative
  
 
-### Incident Handling Scenarios
+## Incident Handling Scenarios
 Each of the following scenarios is intended to represent a specific type of scenario, so the playbook you define will be used the next time an scenario like this (or a similar one) happens. Stick to the description of the specific scenario and the description of the organization provided above and take assumptions if you need (these assumptions need to be clearly identified in your playbook "Introduction" section. 
 
 You need to provide playbooks for 2 of the following incident handling scenarios. In order to select which scenarios you need to work with, you need to apply the following bash script:
