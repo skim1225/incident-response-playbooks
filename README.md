@@ -44,14 +44,18 @@ Each of the following scenarios is intended to represent a specific type of scen
 
 You need to provide playbooks for 2 of the following incident handling scenarios. In order to select which scenarios you need to work with, you need to apply the following bash script:
 
+```
 #!/bin/bash
 sc1=$(( 10#$1 % 12))
 sc2=$(($((10#$1 + 3)) % 12))
 echo "Scenarios for NUID $1 are:  $sc1 and $sc2"
 Run the script and provide your NUID as an argument.
+```
 
+```
 ./playbooks.sh 0038383838
 Scenarios for NUID 0038383838 are:  2 and 5
+```
 
 > The previous output is just an example, you need to execute the script with  your own NUID. 
 
