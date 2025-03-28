@@ -104,11 +104,15 @@ Each playbook, needs to include the Activity Diagram for Short-term Containment 
  
 
 References
-Following resources can be used as guidance on the playbook.
 
 NIST Guide Provides Way to Tackle Cybersecurity Incidents with Recovery Plan, Playbook.
-https://www.nist.gov/news-events/news/2016/12/nist-guide-provides-way-tackle-cybersecurity-incidents-recovery-plan Links to an external site.
 
-This publication provides tactical and strategic guidance regarding the planning, playbook developing, test. https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf Links to an external site.
+https://www.nist.gov/news-events/news/2016/12/nist-guide-provides-way-tackle-cybersecurity-incidents-recovery-plan
+
+This publication provides tactical and strategic guidance regarding the planning, playbook developing, test. 
+
+https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-184.pdf 
+
 Defining CSIRTs
+
 https://www.us-cert.gov/bsi/articles/best-practices/incident-management/defining-computer-security-incident Links to an external site. response-teams Links to an external site.
